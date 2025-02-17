@@ -11,5 +11,5 @@ function cashOut(money) {
   }
 }
 
-let a = cashOut(2000);
+let a = cashOut(999);
 console.log(a);

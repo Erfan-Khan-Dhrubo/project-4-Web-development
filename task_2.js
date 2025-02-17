@@ -24,5 +24,5 @@ function validEmail(email) {
   }
 }
 
-let a = validEmail(7);
+let a = validEmail("ferdous@gmail.com");
 console.log(a);
